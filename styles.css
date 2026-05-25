@@ -196,14 +196,12 @@ body::before{
 .hero-content{
     width: 100%;
 }
-
 .hero-content h1 img{
-    width: 90%;
-    max-width: 500px;
-
-    margin: auto;
+    width: 100%;
+    max-width: none; /* sacá el límite de 500px */
+    height: auto;
+    display: block;
 }
-
 .hero-content p{
     margin-top: 15px;
 
