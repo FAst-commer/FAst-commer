@@ -92,14 +92,6 @@ body::before{
     transition: 0.3s;
 }
 
-
-/* En móvil que ocupe casi todo */
-@media(max-width: 768px){
-    .logo{
-        max-width: 120%;
-    }
-}
-
 .logo:hover{
     transform: scale(1.05);
 }
