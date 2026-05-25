@@ -181,7 +181,6 @@ body::before{
 
     justify-content: center;
     align-items: center;
-    text-align: center;
 
     padding: 0;
     margin-top: -1px;
@@ -189,6 +188,7 @@ body::before{
 
 .hero-content{
     width: 100%;
+    text-align: center;
     padding: 0;
     margin: 0;
 }
