@@ -188,7 +188,7 @@ body::before{
 .hero-content{
     width: 200%;
     
-    padding: 0;
+    padding: 100px;
     margin: 0;
 }
 .hero-content h1 img{
